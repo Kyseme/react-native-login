@@ -1,0 +1,5 @@
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\Model\bin\Release\Model.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\Model\bin\Release\Model.pdb
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\Model\obj\Release\Model.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\Model\obj\Release\Model.pdb

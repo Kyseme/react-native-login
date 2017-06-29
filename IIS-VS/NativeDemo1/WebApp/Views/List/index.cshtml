@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+@using Model;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+    <div> 
+        <button id="list">列表</button>
+    </div>
+    <div>
+        Hello oojj!
+    </div>
+    <div>
+        @if (ViewData["list"] != null)
+        {
+            <table style="width:700px">
+                <tr><th>编号</th><th>标题</th><th>作者</th><th>时间</th><th>详细</th><th>删除</th></tr>
+                @foreach (Book book in (List<Book>)ViewData["list"])
+                {
+                    <tr>
+                        <td>@book.Id</td>
+                        <td>@book.Name</td>
+                        <td><img src="@book.Picture" /></td>
+                        <td>@book.Desc</td>
+                    </tr>
+                }
+
+                </table>
+             }
+    </div>
+</body>
+</html>

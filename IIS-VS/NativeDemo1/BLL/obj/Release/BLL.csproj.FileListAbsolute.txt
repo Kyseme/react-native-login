@@ -1,0 +1,9 @@
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\bin\Release\BLL.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\bin\Release\BLL.pdb
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\bin\Release\DAL.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\bin\Release\Model.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\bin\Release\DAL.pdb
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\bin\Release\Model.pdb
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\obj\Release\BLL.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\BLL\obj\Release\BLL.pdb

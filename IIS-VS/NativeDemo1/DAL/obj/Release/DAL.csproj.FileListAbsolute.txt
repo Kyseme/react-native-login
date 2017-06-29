@@ -1,0 +1,7 @@
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\DAL\bin\Release\DAL.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\DAL\bin\Release\DAL.pdb
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\DAL\bin\Release\Model.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\DAL\bin\Release\Model.pdb
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\DAL\obj\Release\DAL.dll
+D:\ProjectDemo\VSDemos\NetDemos\NativeDemo1\DAL\obj\Release\DAL.pdb
